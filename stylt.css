@@ -39,6 +39,7 @@ body{
     margin-top: 80px;
 }
  #campo-senha{
+    background: var(--fundo-senha);
     border: none;
     color: var(--branco);
     font-family: var(--roboto-mono);
